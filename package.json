@@ -1,0 +1,28 @@
+{
+  "name": "strings-plus",
+  "version": "1.0.0",
+  "description": "More methods for strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikejs/strings-plus.git"
+  },
+  "keywords": [
+    "strings",
+    "plus",
+    "more",
+    "advanced",
+    "extra",
+    "functions",
+    "methods"
+  ],
+  "author": "Ike Holzmann (ikejs)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikejs/strings-plus/issues"
+  },
+  "homepage": "https://github.com/ikejs/strings-plus#readme"
+}
