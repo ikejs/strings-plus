@@ -1,6 +1,6 @@
 {
   "name": "strings-plus",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "More methods for strings",
   "main": "index.js",
   "scripts": {

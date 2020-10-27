@@ -1,6 +1,7 @@
 # strings-plus
 More methods for strings.
 
+![alt text](https://img.shields.io/npm/v/strings-plus)
 ![alt text](https://img.shields.io/github/issues/ikejs/strings-plus)
 ![alt text](https://img.shields.io/github/forks/ikejs/strings-plus)
 
