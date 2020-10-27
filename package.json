@@ -16,8 +16,10 @@
     "more",
     "advanced",
     "extra",
-    "functions",
-    "methods"
+    "capitalize",
+    "whitespace",
+    "cleaner",
+    "tool"
   ],
   "author": "Ike Holzmann (@ikejs)",
   "license": "ISC",
