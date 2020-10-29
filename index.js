@@ -33,7 +33,7 @@ String.prototype.capitalizeEveryOther = function() {
 }
 
 
-// Write a function that removes all whitespace from a given string
+// Remove all whitespace from string
 String.prototype.removeWhitespace = function() {
 
   let newStr = "";
@@ -46,7 +46,7 @@ String.prototype.removeWhitespace = function() {
 }
 
 
-// Write a function that removes only the extra whitespace from a given string (example: “ a        b ” → “a b”)
+// Remove only the extra whitespace from a string
 String.prototype.removeExtraSpace = function() {
 
   const charList = this.split("");
