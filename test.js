@@ -1,4 +1,4 @@
-require('./index');
+require('../umd/strings-plus');
 
 test('Uppercases the first character of string', () => {
   expect("hello world".capitalize()).toBe("Hello world");
